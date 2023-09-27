@@ -1,6 +1,2 @@
 Test1|Testing1|2000|True|NTSC
 Test7|TestingtonTestInc|2006|False|NTSC
-dragonball7|Testing5|2009|False|PAL
-dragonball|Testing5|2008|False|PAL
-dragonball7|Testing5|2009|False|PAL
-dragonball9|Testing5|2009|False|NTSC
